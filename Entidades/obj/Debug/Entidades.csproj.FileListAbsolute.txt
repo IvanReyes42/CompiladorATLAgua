@@ -1,0 +1,14 @@
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Entidades\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Entidades\obj\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Entidades\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Entidades\obj\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,85 @@
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\ManejadorLexico.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\ManejadorLexico.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\bin\Debug\ManejadorLexico.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\ManejadorLexico.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\ManejadorLexico.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\bin\Debug\ManejadorLexico.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Para Modificar\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\ManejadorLexico.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\ManejadorLexico.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\bin\Debug\ManejadorLexico.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 2\Presentacion\obj\Debug\Presentacion.FrmMensaje.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\ManejadorLexico.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\ManejadorLexico.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\bin\Debug\ManejadorLexico.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.FrmMensaje.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 3\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\ManejadorLexico.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\ManejadorLexico.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\bin\Debug\ManejadorLexico.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.FrmMensaje.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.FrmCarga.resources
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador Parte 4 Optimización\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources

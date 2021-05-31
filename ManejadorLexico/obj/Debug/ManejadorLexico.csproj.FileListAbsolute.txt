@@ -1,0 +1,11 @@
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\bin\Debug\ManejadorLexico.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\bin\Debug\ManejadorLexico.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\bin\Debug\ManejadorLexico.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\bin\Debug\Entidades.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\bin\Debug\Entidades.pdb
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\bin\Debug\Entidades.exe.config
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\obj\Debug\ManejadorLexico.csprojAssemblyReference.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\obj\Debug\ManejadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\obj\Debug\ManejadorLexico.csproj.CopyComplete
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\obj\Debug\ManejadorLexico.exe
+C:\Users\Ivan Reyes Ortega\Desktop\Programas Lenguajes Automatas\Compilador\ManejadorLexico\obj\Debug\ManejadorLexico.pdb
